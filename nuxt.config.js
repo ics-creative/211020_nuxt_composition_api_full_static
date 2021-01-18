@@ -18,6 +18,7 @@ export default {
 
   generate: {
     interval: 500,
+    dir: "docs",
   },
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
