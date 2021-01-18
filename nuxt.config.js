@@ -22,7 +22,7 @@ export default {
   },
 
   router: {
-    base: '/211020_nuxt_composition_api_full_static/'
+    base: "/211020_nuxt_composition_api_full_static/",
   },
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)

@@ -10,7 +10,7 @@
           >：アクセス時に非同期処理が呼ばれる。従来のasyncDataに近いメソッド。
         </p>
         <p>
-          <nuxt-link to="/kilimanjaro"
+          <nuxt-link to="/kilimanjaro/"
             >UseAsyncのデモ (Mount Kilimanjaro)</nuxt-link
           >
         </p>
@@ -23,7 +23,7 @@
           API版。<code>$fetch</code>、<code>$fetchState</code>が利用できる
         </p>
         <p>
-          <nuxt-link to="/denali">UseFetchのデモ (Denali)</nuxt-link>
+          <nuxt-link to="/denali/">UseFetchのデモ (Denali)</nuxt-link>
         </p>
       </section>
       <section>
@@ -33,16 +33,16 @@
           >：ジェネレート時に非同期処理の結果をJSONデータとして保存し、生成配信後はAPIが呼ばれない。
         </p>
         <p>
-          <nuxt-link to="/everest">UseStaticのデモ (Mount Everest)</nuxt-link>
+          <nuxt-link to="/everest/">UseStaticのデモ (Mount Everest)</nuxt-link>
         </p>
       </section>
       <section>
         <h2 class="methodName">比較：AsyncData</h2>
-        <nuxt-link to="/aconcagua">AsyncDataのデモ (Aconcagua)</nuxt-link>
+        <nuxt-link to="/aconcagua/">AsyncDataのデモ (Aconcagua)</nuxt-link>
       </section>
       <section>
         <h2 class="methodName">比較：Fetch</h2>
-        <nuxt-link to="/kosciuszko">Fetchのデモ (Kosciuszko)</nuxt-link>
+        <nuxt-link to="/kosciuszko/">Fetchのデモ (Kosciuszko)</nuxt-link>
       </section>
     </div>
   </div>

@@ -1,1 +1,0 @@
-window.__NUXT__={staticAssetsBase:"\u002F211020_nuxt_composition_api_full_static\u002F_nuxt\u002Fstatic\u002F1610959467",layout:"default",error:null,serverRendered:true,routePath:"\u002Faconcagua",config:{http:{browserBaseURL:"\u002F"}},globalRefs:{}};
