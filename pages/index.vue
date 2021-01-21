@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div>
-      <h1 class="title">Nuxt Composition APIで構築するFull Static Generate</h1>
+      <h1 class="title">Nuxt Composition APIで作る完全静的サイト</h1>
       <p class="lead">いくつかの非同期処理の静的ジェネレート後の挙動の違い</p>
       <section>
         <h2 class="methodName">UseAsync</h2>
