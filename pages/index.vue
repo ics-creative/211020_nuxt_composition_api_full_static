@@ -19,7 +19,7 @@
         <h2 class="methodName">UseFetch</h2>
         <p class="description">
           <span class="feature">特徴</span
-          >：アクセス時に非同期処理が呼ばれる。NuxtのFetchメソッドのComposition
+          >：ジェネレート時に非同期処理の結果をpayload.jsとして保存し、生成配信後はAPIが呼ばれない。NuxtのFetchメソッドのComposition
           API版。<code>$fetch</code>、<code>$fetchState</code>が利用できる
         </p>
         <p>
@@ -30,7 +30,7 @@
         <h2 class="methodName">UseStatic</h2>
         <p class="description">
           <span class="feature">特徴</span
-          >：ジェネレート時に非同期処理の結果をJSONデータとして保存し、生成配信後はAPIが呼ばれない。
+          >：ジェネレート時に非同期処理の結果をJSONデータとして保存し、生成配信後はAPIが呼ばれない。SSR時でも初回アクセス時に内容が保存されるので2回目以降のアクセスが高速。
         </p>
         <p>
           <nuxt-link to="/everest">UseStaticのデモ (Mount Everest)</nuxt-link>
